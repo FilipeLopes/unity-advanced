@@ -28,3 +28,7 @@
 
 - This design pattern uses a single instance of a class to enable global access to the class members. Instead of having several instances of the same class, singletons have just one instance, and provide convenient access to that single instance.
 - In this project I used this to create an instance of Player class to be used in the SelectedCounterVisual class.
+
+# Scriptable Objects
+
+- Scriptable object classes allow you to store instances of scripts as assets in your project, instead of as components on game objects in your scene.
